@@ -1,0 +1,6 @@
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 3 - Branching Logic\Pizza Exercise\Tech-Academy-C-Sharp-Pizza-Order-Exercise\Pizza Menu\Pizza Menu\bin\Pizza Menu.dll.config
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 3 - Branching Logic\Pizza Exercise\Tech-Academy-C-Sharp-Pizza-Order-Exercise\Pizza Menu\Pizza Menu\bin\Pizza Menu.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 3 - Branching Logic\Pizza Exercise\Tech-Academy-C-Sharp-Pizza-Order-Exercise\Pizza Menu\Pizza Menu\bin\Pizza Menu.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 3 - Branching Logic\Pizza Exercise\Tech-Academy-C-Sharp-Pizza-Order-Exercise\Pizza Menu\Pizza Menu\obj\Debug\Pizza Menu.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 3 - Branching Logic\Pizza Exercise\Tech-Academy-C-Sharp-Pizza-Order-Exercise\Pizza Menu\Pizza Menu\obj\Debug\Pizza Menu.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 3 - Branching Logic\Pizza Exercise\Tech-Academy-C-Sharp-Pizza-Order-Exercise\Pizza Menu\Pizza Menu\obj\Debug\Pizza Menu.csprojResolveAssemblyReference.cache
